@@ -51,7 +51,6 @@
 
 ## 📫 Contacto
 
-* Email: (tu correo)
-* LinkedIn: (tu perfil)
+
 
 ---
